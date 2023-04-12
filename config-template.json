@@ -4,7 +4,7 @@
   "proxy": "",
   "single_chat_prefix": ["bot", "@bot"],
   "single_chat_reply_prefix": "[bot] ",
-  "group_chat_prefix": ["@bot"],
+  "group_chat_prefix": [""],
   "group_name_white_list": ["大冤种TIM"],
   "group_chat_in_one_session": ["大冤种TIM"],
   "image_create_prefix": ["画", "看", "找"],
